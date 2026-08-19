@@ -6,4 +6,6 @@ console.log("Hello, Git!");
 console.log("kongyong");
 console.log("hello from github");
 console.log("wassub boy");
-saygoodbye()
+function saygoodbye(){
+    cconsole.log("byebye world");
+}
